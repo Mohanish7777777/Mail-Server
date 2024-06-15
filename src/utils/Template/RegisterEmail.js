@@ -220,13 +220,20 @@ const emailTemplate = `
                                       \${email}</strong></span></p>
                                 <p style="line-height: 140%; font-size: 14px;"> </p>
                                 <p style="line-height: 140%; font-size: 14px;"> </p>
-                                <p style="line-height: 140%; font-size: 14px;">We are thrilled to welcome you to Muxik, the ultimate platform for audiophiles like you to enjoy music without any paywall hindrance. Your journey into a world of seamless music exploration starts now!</p>
-                                <p>To complete your sign-up process, please use the One-Time Password (OTP) provided below. This unique code ensures the security of your account and confirms your genuine interest in joining our community of passionate music lovers</p>
+                                <p style="line-height: 140%; font-size: 14px;">Thank you for choosing MohanishX Services as your domain provider. We are excited to assist you in managing your online presence. As part of our security process, we require you to verify your email address. Please use the OTP (One-Time Password) below to complete the verification process:</p>
+                                <p style="line-height: 140%; font-size: 14px;"> </p>
+                                <p style="line-height: 140%; font-size: 14px;"> </p>
+                                <p>If this request is not authorized by you, please kindly revert at your earliest convenience</p>
                                 <p style="line-height: 140%; font-size: 14px;"> </p>
                                 <p style="line-height: 140%; font-size: 14px;"><span
                                   style="font-size: 14px; line-height: 19.6px;"><strong><span
                                       style="font-family: Raleway, sans-serif; font-size: 25px; line-height: 19.6px;">Your Otp :  \${otp} </span></strong></span></p>
                                       <p style="line-height: 140%; font-size: 14px;"> </p>
+                                      <p style="line-height: 140%; font-size: 14px;"> </p>
+                                      <p>Once verified, your subdomain will be successfully registered and ready for use.</p>
+                                      
+                                      <p style="line-height: 140%; font-size: 14px;"> </p>
+                                      <p>Thank you once again for choosing MohanishX Services. We look forward to serving you!</p>
                                       <p style="line-height: 140%; font-size: 14px;"> </p>
                                 <p style="line-height: 140%; font-size: 14px;"><span
                                     style="font-size: 14px; line-height: 19.6px;"><strong><span
@@ -238,7 +245,7 @@ const emailTemplate = `
                                   style="font-family: Raleway, sans-serif; font-size: 14px; ">Regards</span></strong>
                             </p>
                                 <p style="line-height: 140%; font-size: 14px;"><strong><span
-                                      style="font-family: Raleway, sans-serif; font-size: 14px; line-height: 19.6px;">Team Muxik.</span></strong>
+                                      style="font-family: Raleway, sans-serif; font-size: 14px; line-height: 19.6px;">Team MohanishX</span></strong>
                                 </p>
                                 <p style="line-height: 140%; font-size: 14px;"> </p>
                               </div>
@@ -298,7 +305,7 @@ const emailTemplate = `
                                 style="font-size: 14px; color: #ffffff; line-height: 160%; text-align: center; word-wrap: break-word;">
                                 <p style="font-size: 14px; line-height: 160%;">if you have any questions, please email
                                   us at <a rel="noopener" href="mailto:muxikservices@gmail.com"
-                                    target="_blank">muxikservices@gmail.com</a></p>
+                                    target="_blank">mohanishxservices@gmail.com</a></p>
                               </div>
 
                             </td>
